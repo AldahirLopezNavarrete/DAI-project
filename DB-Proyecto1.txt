@@ -1,3 +1,5 @@
+-- Este documento es un script de creación y carga de registros a la bd usada en el proyecto
+
 create database Proyecto1
 
 create table clientes
